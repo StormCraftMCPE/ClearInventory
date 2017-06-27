@@ -3,7 +3,8 @@
 namespace herojhjh;
 
 use pocketmine\Player;
-use pocketmine\event\{Listener, player\PlayerGameModeChangeEvent};
+use pocketmine\event\Listener;
+use pocketmine\event\player\PlayerGameModeChangeEvent;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat as C;
 
