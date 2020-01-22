@@ -1,6 +1,6 @@
 <?php
 
-namespace herojhjh;
+namespace sc;
 
 use pocketmine\Player;
 use pocketmine\event\Listener;
